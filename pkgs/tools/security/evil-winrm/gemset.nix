@@ -157,10 +157,10 @@
     platforms = [];
     source = {
       remotes = ["https://rubygems.org"];
-      sha256 = "1hj8awh547kf6a7vgs565xh8hicffd0brb2a96jna5lr3a2fvmj8";
+      sha256 = "53456e14175c594e0e8eb2206a1be33f3974d4fe21c131e628908b05c8c2ae1e";
       type = "gem";
     };
-    version = "0.0.2";
+    version = "3.1.1";
   };
   winrm = {
     dependencies = ["builder" "erubis" "gssapi" "gyoku" "httpclient" "logging" "nori" "rexml" "rubyntlm"];
